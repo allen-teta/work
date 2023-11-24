@@ -3,7 +3,7 @@ function vol(name){
      var count=0;
     for(i=0;i<name.length;i++){
         if (voewel.includes(name[i])) {
-            count++
+            count++;
         }
         
         
